@@ -21,9 +21,18 @@ const EventSchema = mongoose.Schema({
         type: String,
         required: false
     },
+    postpone: {
+        type: Boolean,
+        default: false
+    },
+    tickets: {
+        type: Array,
+        required: false
+    },
     paid: {
         type: Boolean,
-        required: true
+        required: true,
+        default: false
     }
     
 })
