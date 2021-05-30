@@ -47,8 +47,8 @@ const upload = multer({ storage });
 //Paypal config
 paypal.configure({
     'mode': 'sandbox', //set method as sandbox 
-    'client_id': 'AaTHqF1m-XImn1QyWi3OSoaEWidzX--UZ0p-UdNkwVRs57Y3bsma4Pz9-q6YGkQFRiAtJ-efxNddnf3k',
-    'client_secret': 'EEf-8CaKkAil_O9sK7B6fWstxw6v_zdtbREQ_3H5KWzbSJ201kIuO-ZE_beBZIHhC_Vv6L1PLp75ewDD'
+    'client_id': '',
+    'client_secret': ''
 });
 
 //Ticket schema
