@@ -1,6 +1,8 @@
 # event-planner-backend-freelance
 
 [![GPL License][license-shield]][license-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 
 <details open="open">
   <summary>Table of Contents</summary>
@@ -54,3 +56,7 @@ Contributions are what make the open source community such an amazing place to b
 
 [license-shield]: https://img.shields.io/github/license/PasinduS96/event-planner-backend-freelance?style=for-the-badge
 [license-url]: https://github.com/PasinduS96/event-planner-backend-freelance/blob/main/LICENSE
+[forks-shield]: https://img.shields.io/github/forks/PasinduS96/event-planner-backend-freelance?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/PasinduS96/event-planner-backend-freelance/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://img.shields.io/github/stars/PasinduS96/event-planner-backend-freelance?style=for-the-badge
